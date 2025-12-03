@@ -10,7 +10,6 @@ This repository contains code and experiments for analyzing the metabolic energy
 - `data/` : input and output data, processed results, and figures
 - `run_pipeline.py` : example top-level runner for end-to-end pipeline
 - `requirements.txt` : Python dependencies
-- `test.py` : simple project-level test harness
 
 **Requirements & environment**
 - Python 3.8+ recommended (project was developed with 3.8)
