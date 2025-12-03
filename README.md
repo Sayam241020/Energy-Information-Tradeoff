@@ -43,13 +43,6 @@ python experiments\\01_validate_basic_hh.py
 python experiments\\03_frequency_sweep.py
 ```
 
-- Run the simple test harness:
-
-```powershell
-python test.py
-# or, if you use pytest and tests are available
-pytest
-```
 
 **Data and outputs**
 - Processed results and CSVs are under `data/processed/`.
@@ -67,14 +60,5 @@ python run_pipeline.py
 - Use the `experiments/` scripts as examples for how to call analyzers and plotters.
 - If long-running simulations are used, consider running experiments on a machine with more CPU or by reducing simulation time `t_max` for development.
 
-**License & credits**
-- Add your chosen license here if you want the repo licensed.
-- Authors: Sayam Agarwal and Vivek Kumar Chandan
-
-**Need help?**
-- I can:
-  - run the tests or an experiment for you,
-  - convert a script into a runnable module or wrap existing experiment code into a runner,
-  - or update the README with any additional details you want included.
 
 <end of README>
