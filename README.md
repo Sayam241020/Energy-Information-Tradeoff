@@ -1,4 +1,4 @@
-# Neuronal Bursting Energy Analysis
+# Optimizing the Metabolic Cost of Neuronal Information
 
 Authors: Sayam Agarwal (2024201025), Vivek Kumar Chandan (2024201032)
 
